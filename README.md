@@ -13,3 +13,6 @@ Save the file as a CSV file. Best practice is to name it the player. For example
 If you are using the script in your IDE, simply read the file and the script will it remove the rows that the player missed.
 
 If you are running the app within your browser, simply upload the csv version file and the script will it remove the rows that the player missed.
+
+## Veiw demo
+https://backyardloop.shinyapps.io/NBA_player_prop/
